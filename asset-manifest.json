@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.86af2ead.css",
+    "main.css": "/static/css/main.3da86736.css",
     "main.js": "/static/js/main.b0e32f23.js",
     "static/js/787.b0600131.chunk.js": "/static/js/787.b0600131.chunk.js",
     "static/media/backgroundBanner.jpg": "/static/media/backgroundBanner.1a104b62edfab54e496b.jpg",
@@ -25,8 +25,8 @@
     "static/media/instagram.svg": "/static/media/instagram.c6b8cb38e27fa08147a5848badee6975.svg",
     "static/media/Discount.svg": "/static/media/Discount.638a1f441638e7b76e7cd0a4262d3f49.svg",
     "static/media/close.svg": "/static/media/close.c77f10e4c08d40af5f1ccf25a43b2ac5.svg",
-    "index.html": "/index.html",
     "static/media/Star.svg": "/static/media/Star.5baf88ad0a72df4561e5b994f84ab6fe.svg",
+    "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.0b8796dcff6b9d88f160a5096039aa18.svg",
     "static/media/twitter.svg": "/static/media/twitter.770c4fec194e1e46d63c494c3abf339c.svg",
     "static/media/Shield.svg": "/static/media/Shield.cacb339008a7436142b8c7ef42f59d31.svg",
@@ -36,12 +36,12 @@
     "static/media/quotes.svg": "/static/media/quotes.434c184457ebf3e0a409048091321839.svg",
     "static/media/facebook.svg": "/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.86af2ead.css.map": "/static/css/main.86af2ead.css.map",
+    "main.3da86736.css.map": "/static/css/main.3da86736.css.map",
     "main.b0e32f23.js.map": "/static/js/main.b0e32f23.js.map",
     "787.b0600131.chunk.js.map": "/static/js/787.b0600131.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86af2ead.css",
+    "static/css/main.3da86736.css",
     "static/js/main.b0e32f23.js"
   ]
 }
